@@ -1,0 +1,29 @@
+{
+  "name": "jsdefault",
+  "version": "1.0.0",
+  "description": "Boilerplate for my learning JavaScript project with es6, eslint with custom rules, git, gulp, babel support",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.14.0",
+    "eslint": "^3.4.0",
+    "eslint-plugin-import": "^1.14.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-eslint": "^3.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r1135/JSDefault.git"
+  },
+  "author": "Kenneth Man",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r1135/JSDefault/issues"
+  },
+  "homepage": "https://github.com/r1135/JSDefault#readme"
+}
