@@ -6,12 +6,14 @@ ESLint,
 Babel
 
 Folder structure:
+<code>
 |-es6
 |-dist
 |-public
     |-es6
     |-dist
-    
+</code>
+
 Configuration files:
 .gitignore
 gulpfile.js
