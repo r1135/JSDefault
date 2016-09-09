@@ -1,22 +1,22 @@
-My Javascript projects boilerplate
+#My Javascript projects boilerplate
 
-Common js project setup:
-Gulp,
-ESLint,
-Babel
+##Common js project setup:
+* Gulp
+* ESLint
+* Babel
 
-Folder structure:
-<pre><code>
+##Folder structure:
+```
 |-es6
 |-dist
 |-public
     |-es6
     |-dist
-</code></pre>
+```
 
-Configuration files:
-.gitignore
-gulpfile.js
-babelrc
-.eslintrc.json
-package.json
+##Configuration files:
+* .gitignore
+* gulpfile.js
+* babelrc
+* .eslintrc.json
+* package.json
