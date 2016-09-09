@@ -6,13 +6,13 @@ ESLint,
 Babel
 
 Folder structure:
-<code>
+<pre><code>
 |-es6
 |-dist
 |-public
     |-es6
     |-dist
-</code>
+</code></pre>
 
 Configuration files:
 .gitignore
